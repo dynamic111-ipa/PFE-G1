@@ -1,0 +1,5 @@
+,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month,Day,Hour
+0,0, Waking up to the sound of birds chirping is the best! , Positive ,2023-05-10 07:30:00, EarlyBird , Instagram , #MorningVibes #Peaceful ,12.0,45.0, USA ,2023,5,10,7
+1,1, My flight got delayed for the third time today. , Negative ,2023-05-10 14:15:00, TravelWoes , Twitter , #TravelFail #AirportLife ,25.0,15.0, UK ,2023,5,10,14
+2,2, Reviewing the financial reports for the next quarter. , Neutral ,2023-05-11 09:00:00, AnalystPro , Facebook , #Business #WorkLife ,5.0,12.0, Canada ,2023,5,11,9
+3,3, I am absolutely fuming about this data breach! , Anger ,2023-05-11 11:45:00, PrivacyFirst , Twitter , #DataPrivacy #Angry ,60.0,120.0, Germany ,2023,5,11,11

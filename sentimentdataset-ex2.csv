@@ -1,0 +1,52 @@
+,Unnamed: 0,Text,Sentiment,Timestamp,User,Platform,Hashtags,Retweets,Likes,Country,Year,Month,Day,Hour
+0,0, Waking up to the sound of birds chirping is the best! , Positive ,2023-05-10 07:30:00, EarlyBird , Instagram , #MorningVibes #Peaceful ,12.0,45.0, USA ,2023,5,10,7
+1,1, My flight got delayed for the third time today. , Negative ,2023-05-10 14:15:00, TravelWoes , Twitter , #TravelFail #AirportLife ,25.0,15.0, UK ,2023,5,10,14
+2,2, Reviewing the financial reports for the next quarter. , Neutral ,2023-05-11 09:00:00, AnalystPro , Facebook , #Business #WorkLife ,5.0,12.0, Canada ,2023,5,11,9
+3,3, I am absolutely fuming about this data breach! , Anger ,2023-05-11 11:45:00, PrivacyFirst , Twitter , #DataPrivacy #Angry ,60.0,120.0, Germany ,2023,5,11,11
+4,4, The silence of the deep forest is slightly unnerving. , Fear ,2023-05-12 21:30:00, WoodsWalker , Instagram , #Forest #Spooky ,8.0,30.0, Australia ,2023,5,12,21
+5,5, Saying goodbye to my childhood home was so hard. , Sadness ,2023-05-13 16:20:00, NostalgicSoul , Facebook , #MovingDay #Memories ,18.0,55.0, USA ,2023,5,13,16
+6,6, This street food is genuinely revolting and greasy. , Disgust ,2023-05-14 13:10:00, FoodCriticX , Twitter , #FoodFail #Gross ,10.0,22.0, India ,2023,5,14,13
+7,7, Pure bliss is a warm cup of coffee and a new book. , Happiness ,2023-05-15 08:00:00, BookWorm99 , Instagram , #Happiness #Reading ,35.0,80.0, UK ,2023,5,15,8
+8,8, Watching my younger sister graduate filled me with pride. , Joy ,2023-05-16 12:00:00, ProudBrother , Facebook , #Graduation #FamilyJoy ,45.0,150.0, Canada ,2023,5,16,12
+9,9, Every time I see you, my heart just skips a beat. , Love ,2023-05-17 19:45:00, SecretAdmirer , Twitter , #Love #Romance ,20.0,90.0, France ,2023,5,17,19
+10,10, The kitten tried to jump and fell on the soft rug. , Amusement ,2023-05-18 10:20:00, CatLover101 , Instagram , #FunnyCats #Amusement ,50.0,200.0, USA ,2023,5,18,10
+11,11, I could sit by this lake and watch the waves all day. , Enjoyment ,2023-05-19 15:30:00, NatureLover , Facebook , #Nature #Peaceful ,22.0,65.0, Brazil ,2023,5,19,15
+12,12, The level of craftsmanship in this watch is insane. , Admiration ,2023-05-20 11:00:00, LuxuryWatch , Twitter , #Craftsmanship #Admiration ,15.0,40.0, Switzerland ,2023,5,20,11
+13,13, Giving my dog a big hug after a long day at work. , Affection ,2023-05-21 18:15:00, DogDad , Instagram , #PuppyLove #Affection ,30.0,110.0, USA ,2023,5,21,18
+14,14, Staring at the Milky Way from the desert tonight. , Awe ,2023-05-22 02:00:00, AstroFan , Twitter , #StarGazing #Awe ,80.0,300.0, Chile ,2023,5,22,2
+15,15, The sequel was nowhere near as good as the original. , Disappointed ,2023-05-23 20:10:00, MovieBuff , Facebook , #MovieReview #Disappointed ,12.0,25.0, UK ,2023,5,23,20
+16,16, I can't believe they threw me a surprise party! , Surprise ,2023-05-24 21:00:00, PartyAnimal , Instagram , #Surprise #Birthday ,55.0,180.0, USA ,2023,5,24,21
+17,17, Learning to let go of things I cannot control. , Acceptance ,2023-05-25 07:45:00, ZenMindset , Twitter , #Acceptance #Growth ,28.0,95.0, Japan ,2023,5,25,7
+18,18, Looking at my newborn son is the greatest feeling. , Adoration ,2023-05-26 09:30:00, NewParent , Facebook , #Adoration #BabyBoy ,40.0,250.0, Canada ,2023,5,26,9
+19,19, I can't wait for the new season of my favorite show! , Anticipation ,2023-05-27 14:00:00, SeriesFan , Twitter , #Excitement #Anticipation ,100.0,400.0, USA ,2023,5,27,14
+20,20, Losing that promotion to someone less qualified hurts. , Bitter ,2023-05-28 17:50:00, CareerStruggle , LinkedIn , #WorkLife #Bitter ,5.0,10.0, Australia ,2023,5,28,17
+21,21, The ocean breeze always brings a sense of stillness. , Calmness ,2023-05-29 06:00:00, SeaSeeker , Instagram , #Calm #OceanLife ,14.0,50.0, Maldives ,2023,5,29,6
+22,22, I am so lost trying to assemble this furniture. , Confusion ,2023-05-30 11:20:00, DIYFail , Facebook , #Confusion #Furniture ,8.0,20.0, USA ,2023,5,30,11
+23,23, Just got the keys to my very first apartment! , Excitement ,2023-05-31 13:15:00, HomeOwner , Instagram , #FirstHome #Excitement ,90.0,500.0, UK ,2023,5,31,13
+24,24, A stranger paid for my coffee this morning. , Kind ,2023-06-01 08:30:00, FaithInHumanity , Twitter , #Kindness #PayItForward ,150.0,600.0, USA ,2023,6,1,8
+25,25, Finally hitting my target weight after a year. , Pride ,2023-06-02 10:00:00, FitnessJourney , Instagram , #Pride #WeightLoss ,60.0,300.0, Canada ,2023,6,2,10
+26,26, I really regret not speaking up when I had the chance. , Shame ,2023-06-03 23:45:00, SilentSpeaker , Twitter , #Regret #Shame ,10.0,35.0, India ,2023,6,3,23
+27,27, Winning the championship felt like flying! , Elation ,2023-06-04 18:00:00, ChampWinner , Facebook , #Elation #Victory ,120.0,1000.0, USA ,2023,6,4,18
+28,28, The crowd went wild when the beat finally dropped. , Euphoria ,2023-06-05 23:30:00, RaveVibes , Instagram , #Euphoria #Rave ,200.0,800.0, Netherlands ,2023,6,5,23
+29,29, A simple life is all I ever really wanted. , Contentment ,2023-06-06 19:15:00, SimpleLiver , Twitter , #Contentment #Peace ,12.0,45.0, UK ,2023,6,6,19
+30,30, Meditating in the morning sets the tone for the day. , Serenity ,2023-06-07 05:30:00, YogaSpirit , Instagram , #Serenity #Meditation ,25.0,110.0, Thailand ,2023,6,7,5
+31,31, Thank you so much for the birthday wishes! , Gratitude ,2023-06-08 09:00:00, BirthdayGirl , Facebook , #Gratitude #Blessed ,40.0,150.0, USA ,2023,6,8,9
+32,32, I believe better days are just around the corner. , Hope ,2023-06-09 12:45:00, HopefulHeart , Twitter , #Hope #Optimism ,75.0,220.0, Canada ,2023,6,9,12
+33,33, Taking control of my future starts right now. , Empowerment ,2023-06-10 14:10:00, LeaderInMe , Instagram , #Empowerment #Success ,35.0,130.0, USA ,2023,6,10,14
+34,34, Helping at the shelter really opens your eyes. , Compassion ,2023-06-11 10:30:00, VolunteerX , Facebook , #Compassion #GiveBack ,50.0,180.0, UK ,2023,6,11,10
+35,35, Watching an old couple hold hands is so sweet. , Tenderness ,2023-06-12 16:45:00, LoveWatcher , Twitter , #Tenderness #Love ,22.0,95.0, France ,2023,6,12,16
+36,36, The adrenaline before a bungee jump is crazy! , Arousal ,2023-06-13 13:20:00, AdrenalineJunkie , Instagram , #Bungee #Thrill ,45.0,160.0, NZ ,2023,6,13,13
+37,37, I am so ready to start this creative project! , Enthusiasm ,2023-06-14 09:00:00, CreatorMode , Twitter , #Enthusiasm #Art ,15.0,55.0, USA ,2023,6,14,9
+38,38, Completing my first marathon was a life goal. , Fulfillment ,2023-06-15 11:00:00, RunnerHigh , Facebook , #Fulfillment #Marathon ,80.0,400.0, UK ,2023,6,15,11
+39,39, Respecting the traditions of those who came before. , Reverence ,2023-06-16 15:30:00, HistoryBuff , Instagram , #Tradition #Reverence ,10.0,40.0, Greece ,2023,6,16,15
+40,40, It feels like there is no light at the end of this. , Despair ,2023-06-17 02:00:00, SadDays , Twitter , #Despair #Sad ,5.0,12.0, USA ,2023,6,17,2
+41,41, The pain of losing a pet is unlike anything else. , Grief ,2023-06-18 20:45:00, PetLover , Facebook , #Grief #PetLoss ,30.0,120.0, Canada ,2023,6,18,20
+42,42, Loneliness is a heavy burden on a Friday night. , Loneliness ,2023-06-19 22:15:00, SoloTraveler , Twitter , #Loneliness #Solitude ,12.0,35.0, USA ,2023,6,19,22
+43,43, Why does everyone else seem to have it so easy? , Jealousy ,2023-06-20 18:30:00, EnviousEye , Instagram , #Jealousy #Reality ,4.0,15.0, UK ,2023,6,20,18
+44,44, I still haven't forgiven you for what you did. , Resentment ,2023-06-21 11:00:00, BitterHeart , Facebook , #Resentment #Truth ,7.0,20.0, USA ,2023,6,21,11
+45,45, This software never works when I need it to! , Frustration ,2023-06-22 14:20:00, TechUser , Twitter , #Frustration #Tech ,18.0,45.0, Germany ,2023,6,22,14
+46,46, Staring at the wall because there's nothing to do. , Boredom ,2023-06-23 16:00:00, LazyDays , Instagram , #Boredom #Me ,3.0,10.0, USA ,2023,6,23,16
+47,47, My heart is racing and I can't stop worrying. , Anxiety ,2023-06-24 03:00:00, WorriedMind , Twitter , #Anxiety #MentalHealth ,25.0,100.0, Canada ,2023,6,24,3
+48,48, Standing in a room full of geniuses is scary. , Intimidation ,2023-06-25 09:30:00, RookieLearner , Facebook , #Intimidation #Learning ,6.0,20.0, UK ,2023,6,25,9
+49,49, No matter what I do, I can't fix this situation. , Helplessness ,2023-06-26 21:15:00, StuckInPlace , Twitter , #Helplessness #Sad ,8.0,25.0, USA ,2023,6,26,21
+50,50, I wish I had her talent and her confidence. , Envy ,2023-06-27 15:45:00, ShadowFan , Instagram , #Envy #Reflection ,2.0,8.0, Australia ,2023,6,27,15
