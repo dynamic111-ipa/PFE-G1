@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Sentiment AI</title>
+    <!-- Google Fonts -->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700&display=swap" rel="stylesheet">
+    <!-- Icons -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+
+    <!-- Background Shapes for aesthetic -->
+    <div class="shape shape-1"></div>
+    <div class="shape shape-2"></div>
+
+    <main class="glass-container">
+        <header>
+            <div class="icon-wrapper">
+                <i class="fa-solid fa-brain"></i>
+            </div>
+            <h1>Sentiment Analysis</h1>
+            <p>Upload your CSV to analyze customer emotions instantly.</p>
+        </header>
+
+        <form id="uploadForm">
+            <!-- Drag and Drop Area -->
+            <div class="drop-zone" id="dropZone">
+                <div class="drop-content">
+                    <i class="fa-solid fa-cloud-arrow-up"></i>
+                    <p class="drop-text">Drag & drop your CSV here</p>
+                    <p class="or-text">- OR -</p>
+                    <span class="btn-select">Browse Files</span>
+                </div>
+                <input type="file" id="csvFile" accept=".csv" hidden>
+                <div id="fileInfo" class="file-info hidden">
+                    <i class="fa-solid fa-file-csv"></i>
+                    <span id="fileName">filename.csv</span>
+                    <i class="fa-solid fa-xmark" id="removeFile"></i>
+                </div>
+            </div>
+
+            <button type="submit" class="btn-analyze" id="analyzeBtn" disabled>
+                <span>Analyze Sentiment</span>
+                <div class="loader hidden" id="btnLoader"></div>
+            </button>
+        </form>
+
+        <!-- Error Message -->
+        <div id="errorMessage" class="message-box error hidden">
+            <i class="fa-solid fa-circle-exclamation"></i>
+            <span id="errorText">Error text goes here</span>
+        </div>
+
+        <!-- Results Section -->
+        <div id="resultsContainer" class="results-section hidden">
+            <h3>Analysis Report</h3>
+            
+            <div class="stat-bars">
+                <!-- Positive Bar -->
+                <div class="stat-item">
+                    <div class="stat-header">
+                        <span class="label text-positive"><i class="fa-regular fa-face-smile"></i> Positive</span>
+                        <span class="count" id="posCount">0</span>
+                    </div>
+                    <div class="progress-bg">
+                        <div class="progress-fill fill-positive" id="posBar" style="width: 0%"></div>
+                    </div>
+                </div>
+
+                <!-- Neutral Bar -->
+                <div class="stat-item">
+                    <div class="stat-header">
+                        <span class="label text-neutral"><i class="fa-regular fa-face-meh"></i> Neutral</span>
+                        <span class="count" id="neuCount">0</span>
+                    </div>
+                    <div class="progress-bg">
+                        <div class="progress-fill fill-neutral" id="neuBar" style="width: 0%"></div>
+                    </div>
+                </div>
+
+                <!-- Negative Bar -->
+                <div class="stat-item">
+                    <div class="stat-header">
+                        <span class="label text-negative"><i class="fa-regular fa-face-frown"></i> Negative</span>
+                        <span class="count" id="negCount">0</span>
+                    </div>
+                    <div class="progress-bg">
+                        <div class="progress-fill fill-negative" id="negBar" style="width: 0%"></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+    <script src="{{ url_for('static', filename='script.js') }}"></script>
+</body>
+</html>
